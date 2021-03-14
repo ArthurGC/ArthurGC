@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ArthurGC/ArthurGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ArthurGC/ArthurGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with:   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 - ⚡ About me: I am very interested in Software Development and Electrical Engineering.
--->
+
