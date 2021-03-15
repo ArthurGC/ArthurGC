@@ -1,4 +1,4 @@
-![Arthur_Greeting](Arthur_Greeting2.png)
+![Arthur_Greeting](Arthur_Greeting.png)
 
 <!--
 **ArthurGC/ArthurGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
