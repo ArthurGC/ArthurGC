@@ -1,4 +1,4 @@
-<img src="Arthur_Greeting.png" width="900px">
+<img src="Arthur_Greeting.png" width="900px" margin="0 auto">
 <!--
 **ArthurGC/ArthurGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
