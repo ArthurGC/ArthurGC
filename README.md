@@ -10,11 +10,11 @@
 
 I am a Frond-End Developer. Currently I am studying at Microverse :wink:.
 
-- 🌱 I’m currently learning:  
+🌱 I’m currently learning:  
 
   ![JavaScript](js.svg)
   
-- 🤔 I want to learn: 
+🤔 I want to learn: 
 
   ![React](react.svg) 
   ![Redux](redux.svg)
