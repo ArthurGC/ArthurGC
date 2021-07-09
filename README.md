@@ -30,7 +30,10 @@ I am a Frond-End Developer. Currently I am studying at Microverse :wink:.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGC&layout=compact)](https://github.com/ArthurGC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGC&layout=compact&theme=vue-dark)](https://github.com/ArthurGC/github-readme-stats)
+
+[![ArthurGC GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGC&show_icons=true&theme=vue-dark)](https://github.com/ArthurGC/github-readme-stats)
+
 
 ---
 
