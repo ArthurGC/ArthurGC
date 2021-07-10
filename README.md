@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding cat" src="public/cat-pc.gif" width="18%"/>
 
-### <img alt="glass-emoticon" src="public/glass-face.gif" width="30"/>Hey, nice to see you!
+## :wave: Hey, nice to see you!
 
 
 <p align="left">
