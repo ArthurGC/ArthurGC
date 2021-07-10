@@ -26,9 +26,9 @@
 
 <h2>:100: My Stats</h2>
 
-[![ArthurGC GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGC&show_icons=true&theme=vue-dark)](https://github.com/ArthurGC/github-readme-stats)
+[![ArthurGC GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGC&show_icons=true&theme=gotham)](https://github.com/ArthurGC/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGC&layout=compact&theme=vue-dark)](https://github.com/ArthurGC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGC&layout=compact&theme=gotham)](https://github.com/ArthurGC/github-readme-stats)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
