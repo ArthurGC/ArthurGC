@@ -9,8 +9,8 @@
 
 <p align="left">
 <a href="https://github.com/ArthurGC/ArthurGC"><img alt="Gmail" src="public/gmail-icon.svg" width="100" height="35" /></a>
-<a href="https://github.com/ArthurGC/ArthurGC"><img alt="Twitter" src="public/twitter-icon.svg" width="125" height="35" /></a>
-<a href="https://github.com/ArthurGC/ArthurGC"><img alt="LinkedIn" src="public/linkedIn-icon.svg" width="135" height="35" /></a>
+<a href="https://twitter.com/ArthurGC_22"><img alt="Twitter" src="public/twitter-icon.svg" width="125" height="35" /></a>
+<a href="https://www.linkedin.com/in/alxguzmanc/"><img alt="LinkedIn" src="public/linkedIn-icon.svg" width="135" height="35" /></a>
 </p>
  
 <br>
