@@ -32,9 +32,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently studying on Microverse.
+- :computer: I'm currently studying at Microverse.
 - :rocket: Always ready to collaborate for Web Design projects.
-- :zap: Fun fact: I love to watch videos about Web design and videogames.
+- :zap: Fun fact: I love to watch videos about Web design and video games.
 
 <hr>
 
