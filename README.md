@@ -6,11 +6,14 @@
 
 ## :wave: Hey, nice to see you!
 
+- :computer: I'm currently studying at Microverse.
+- :rocket: Always ready to collaborate for Web Design projects.
+- :zap: Fun fact: I love to watch videos about Web design and video games.
 
 <p align="left">
-<a href="https://github.com/ArthurGC/ArthurGC"><img alt="Gmail" src="public/gmail-icon.svg" width="100" height="35" /></a>
-<a href="https://github.com/ArthurGC/ArthurGC"><img alt="Twitter" src="public/twitter-icon.svg" width="125" height="35" /></a>
-<a href="https://github.com/ArthurGC/ArthurGC"><img alt="LinkedIn" src="public/linkedIn-icon.svg" width="135" height="35" /></a>
+<a href="mailto:alxguzmanc@gmail.com"><img alt="Gmail" src="public/gmail-icon.svg" width="100" height="35" /></a>
+<a href="https://twitter.com/ArthurGC_22"><img alt="Twitter" src="public/twitter-icon.svg" width="125" height="35" /></a>
+<a href="https://www.linkedin.com/in/alxguzmanc/"><img alt="LinkedIn" src="public/linkedIn-icon.svg" width="135" height="35" /></a>
 </p>
  
 <br>
@@ -34,11 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGC&layout=compact&theme=gotham)](https://github.com/ArthurGC/github-readme-stats)
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently studying on Microverse.
-- :rocket: Always ready to collaborate for Web Design projects.
-- :zap: Fun fact: I love to watch videos about Web design and videogames.
 
 <hr>
 
