@@ -17,11 +17,15 @@
 
 <h2> :hammer_and_wrench: Tech & Tools Preference </h2>
 <div align="left">
-	<img alt="Html5" src="public/html5-original.svg" width="90" height="60" />
-  <img alt="Css3" src="public/css3-original.svg" width="90" height="60" />
-  <img alt="Sass" src="public/sass-original.svg" width="90" height="60" />
-  <img alt="Javascript" src="public/javascript-original.svg" width="80" height="50" />
-  <img alt="Git" src="public/git-original.svg" width="80" height="50" />
+	<img alt="html" src="public/html5-original.svg" width="90" height="60" />
+  <img alt="css3" src="public/css3-original.svg" width="90" height="60" />
+  <img alt="javascript" src="public/javascript-original.svg" width="80" height="50" />
+  <img alt="react" src="public/react-original.svg" width="90" height="60" />
+  <img alt="redux" src="public/redux.svg" width="90" height="60" />
+  <img alt="sass" src="public/sass-original.svg" width="90" height="60" />
+  <img alt="tailwindcss" src="public/tailwindcss.svg" width="90" height="50" />
+  <img alt="git" src="public/git-original.svg" width="80" height="50" />
+  <img alt="jest" src="public/jest.svg" width="90" height="60" />
 </div>
 
 <h2>:100: My Stats</h2>
