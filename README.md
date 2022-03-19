@@ -6,7 +6,7 @@
 
 ## :wave: Hey, nice to see you!
 
-- :computer: I'm currently studying at Microverse.
+- :computer: I graduated from Microverse. I'm a Full Stack Developer with preference on Ruby on Rails.
 - :rocket: Always ready to collaborate for Web Design projects.
 - :zap: Fun fact: I love to watch videos about Web design and video games.
 
