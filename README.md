@@ -18,7 +18,7 @@
  
 <br>
 
-<h2> :hammer_and_wrench: Tech & Tools Preference </h2>
+<h2> :hammer_and_wrench: Tech </h2>
 <div align="left">
 	<img alt="html" src="public/html5-original.svg" width="90" height="60" />
   <img alt="css3" src="public/css3-original.svg" width="90" height="60" />
@@ -29,6 +29,12 @@
   <img alt="sass" src="public/sass-original.svg" width="90" height="60" />
   <img alt="tailwindcss" src="public/tailwindcss.svg" width="90" height="50" />
   <img alt="jest" src="public/jest.svg" width="90" height="60" />
+</div>
+
+<h2> :hammer_and_wrench: Tools Preference </h2>
+<div align="left">
+	<img alt="rails" src="public/rails.png" width="90" height="60" />
+	<img alt="ruby" src="public/ruby.png" width="90" height="60" />
 </div>
 
 <h2>:100: My Stats</h2>
