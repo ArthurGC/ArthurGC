@@ -33,8 +33,8 @@
 
 <h2> :hammer_and_wrench: Tools Preference </h2>
 <div align="left">
-	<img alt="rails" src="public/rails.png" width="90" height="60" />
-	<img alt="ruby" src="public/ruby.png" width="90" height="60" />
+	<img alt="rails" src="public/rails.png" width="90" height="90" />
+	<img alt="ruby" src="public/ruby.png" width="90" height="90" />
 </div>
 
 <h2>:100: My Stats</h2>
